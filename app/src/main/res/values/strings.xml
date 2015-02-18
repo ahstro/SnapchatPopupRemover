@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Snapchat Google Play popup remover</string>
+    <string name="xposed_description">Removes the popup notifying you that Google Play services are not installed on your device.</string>
+</resources>
