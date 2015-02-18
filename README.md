@@ -7,9 +7,9 @@ This was made for me, I know it works sufficiently on my own device; I'm not res
 
 
 ####Description
+<img src="https://raw.githubusercontent.com/LumenTeun/SnapchatPopupRemover/master/ruinedsexyselfie.png" width="25%" align="right">
 Are you paranoid, but not paranoid enough to not want to send naked pictures to your friends and everyone at TeamSnapchat? Then this is the app for you!<br>
-If you have an Android phone without GApps (that's Google Apps for you n00bz out there), and decided to sideload Snapchat, then you're probably all to familiar with this ruining your amazingly stunning poses:<br>
-![Ruined yet incredibly sexy selfie](https://ohnoestheresnoimagehereyetbecauseihaventuploadedanything.bummer)<br>
+If you have an Android phone without GApps (that's Google Apps for you n00bz out there), and decided to sideload Snapchat, then you're probably all to familiar with this ruining your amazingly stunning poses like this one --><br>
 Well, here's an abominable solution to your troubles: SNAPCHAT GOOGLE PLAY POPUP REMOVER!!! (Sexy name, right?)<br>
 This Xposed module actually tricks your Snapchat app into thinking that you have Google Play Services on your phone, probably resulting a whole heap of underlying issues, but who gives a fuck, right?<br>
 Have fun!
