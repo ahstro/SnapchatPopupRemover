@@ -13,7 +13,7 @@ public class Main implements IXposedHookLoadPackage {
             return;
         }
 
-        // Affectively disables the getErrorDialog function by returning
+        // Effectively disables the getErrorDialog function by returning
         // '0' which is the SUCCESS constant for isGooglePlayServicesAvailable()
         // Probably very bad since the app might think you actually have the Google services.
         XposedHelpers.findAndHookMethod(
